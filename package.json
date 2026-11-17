@@ -1,5 +1,5 @@
 {
-  "name": "my-ai-code",
+  "name": "@bhabani0_0/my-ai-code",
   "version": "1.1.0",
   "description": "AI coding assistant for your terminal powered by Google Gemini",
   "type": "module",

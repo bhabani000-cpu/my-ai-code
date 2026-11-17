@@ -9,7 +9,7 @@ An AI-powered terminal coding assistant that delivers instant, practical program
 Install globally using `npm`:
 
 ```bash
-npm install -g my-ai-code
+npm install -g @bhabani0_0/my-ai-code
 ```
 
 ---
