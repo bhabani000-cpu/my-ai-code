@@ -5,7 +5,7 @@
   "type": "module",
   "main": "./bin/cli.js",
   "bin": {
-    "my-ai-code": "./bin/cli.js"
+    "my-ai-code": "bin/cli.js"
   },
   "files": [
     "bin",
