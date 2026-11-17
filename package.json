@@ -30,5 +30,8 @@
     "developer-tools",
     "gemini"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
 }
