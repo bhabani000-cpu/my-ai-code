@@ -31,6 +31,14 @@
     "gemini"
   ],
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhabani000-cpu/my-ai-code.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bhabani000-cpu/my-ai-code/issues"
+  },
+  "homepage": "https://github.com/bhabani000-cpu/my-ai-code#readme",
   "publishConfig": {
     "access": "public"
   }
