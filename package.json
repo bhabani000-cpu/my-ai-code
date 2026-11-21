@@ -1,9 +1,12 @@
 {
   "name": "@bhabani0_0/my-ai-code",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "AI coding assistant for your terminal powered by Google Gemini",
   "type": "module",
-  "main": "./bin/cli.js",
+  "main": "./src/index.js",
+  "exports": {
+    ".": "./src/index.js"
+  },
   "bin": {
     "my-ai-code": "bin/cli.js"
   },
@@ -13,7 +16,8 @@
     "README.md"
   ],
   "scripts": {
-    "start": "node bin/cli.js"
+    "start": "node bin/cli.js",
+    "test": "node --test"
   },
   "dependencies": {
     "@google/generative-ai": "^0.24.1",
